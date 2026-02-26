@@ -5,6 +5,7 @@ Employee Attrition Prediction
 Employee Attrition Prediction is a Machine Learning project that analyzes HR data to identify key factors contributing to employee turnover and predicts whether an employee is likely to leave the organization.
 
 This project helps HR teams make data-driven decisions to reduce attrition and improve employee retention.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/c3deaf4c-92a0-4e60-a956-575769a8ffad" />
 
 🎯 Objective
 
